@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this algorithm, please cite it as below."
+authors:
+- family-names: "Polovnikov"
+  given-names: "Kirill"
+  orcid: "https://orcid.org/0000-0001-9903-9623"
+- family-names: "Pospelov"
+  given-names: "Nikita"
+- family-names: "Skougarevskiy"
+  given-names: "Dmitriy"
+  orcid: "0000-0002-4022-6210"
+title: "α-Indirect Control in Onion-like Networks"
+date-released: 2021-09-16
+year: 2021
+url: "https://github.com/eusporg/alphaicon"
+preferred-citation:
+  type: unpublished
+  authors:
+  - family-names: "Polovnikov"
+    given-names: "Kirill"
+    orcid: "https://orcid.org/0000-0001-9903-9623"
+  - family-names: "Pospelov"
+    given-names: "Nikita"
+  - family-names: "Skougarevskiy"
+    given-names: "Dmitriy"
+    orcid: "0000-0002-4022-6210"
+  url: "https://arxiv.org/abs/2109.07181"
+  title: "α-Indirect Control in Onion-like Networks"
+  year: 2021
