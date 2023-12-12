@@ -108,6 +108,5 @@ Free Company Data Product is <a href="http://download.companieshouse.gov.uk/en_o
 
 
 ## Contacts
-Dmitriy Skougarevskiy, Ph.D.
-
-dskougarevskiy@eu.spb.ru
+Algorithm development: Kirill Polovnikov, Ph.D., k.polovnikov@skoltech.ru
+Data collection: Dmitriy Skougarevskiy, Ph.D., dskougarevskiy@eu.spb.ru
